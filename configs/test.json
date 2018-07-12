@@ -1,0 +1,13 @@
+{
+      "width": 1920
+    , "height": 1080
+    , "sources": [
+        {
+              "type": "random_walk"
+            , "x": 960
+            , "y": 540
+            , "mutator": "static"
+            , "brush": "pixel_brush"
+        }
+    ]
+}
